@@ -13,6 +13,10 @@ Clone o repositório: `git clone [URL_DO_REPOSITORIO]`.
 
 Navegue até a pasta do projeto e instale as dependências: `cd [NOME_DA_PASTA_DO_PROJETO]` e depois rodar o comando `npm install`.
 
+Crie um arquivo .env no projeto, crie uma conta neste link abaixo e busque pela criação de um token pessoal para a API que será ulilizada neste projeto.
+
+Link: `https://huggingface.co/welcome`
+
 Inicie o servidor: `npm run start`.
 
 ---
